@@ -50,6 +50,3 @@ The project is deployed on Vercel. You can access it using the following URL:
 
 [https://text-to-voice-alpha.vercel.app]()
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
